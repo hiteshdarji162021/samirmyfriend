@@ -22,7 +22,8 @@ public class DemoTestNG {
 		String ExpectedTitle= "Register";
 		Assert.assertEquals(title,ExpectedTitle);
 		Assert.assertTrue(title.contains(ExpectedTitle));
-		System.out.println("Title is matched");
+		System.out.println("Title is matched samir");
+		
 	}
 
 }
