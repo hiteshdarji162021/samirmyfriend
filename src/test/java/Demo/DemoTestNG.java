@@ -23,6 +23,7 @@ public class DemoTestNG {
 		Assert.assertEquals(title,ExpectedTitle);
 		Assert.assertTrue(title.contains(ExpectedTitle));
 		System.out.println("Title is matched samir user");
+		System.out.println("My Name is khan");
 		
 	}
 
